@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# LanguageSkills
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID para criação do Avatar e Voz
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
