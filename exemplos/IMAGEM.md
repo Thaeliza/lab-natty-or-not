@@ -14,6 +14,7 @@ Utilizei o "ChatGPT" para a sugestão de elementos que deveriam estar presentes 
 ## 🚀 Resultados
 A imagem gerada representa uma cidade moderna reinterpretada no estilo de Van Gogh, capturando a essência vibrante e expressiva de suas pinceladas. A cena transmite movimento e energia através de traços ondulados e cores intensas, remetendo à emoção e ao dinamismo característicos de Van Gogh. Os prédios altos, carros e luzes urbanas ganham uma aparência quase onírica, combinando a modernidade da cidade com a estética pós-impressionista do pintor.
 
+[LINK PARA A IMAGEM AQUI](https://github.com/Thaeliza/lab-natty-or-not/blob/main/exemplos/urbana_vangogh.png)
 
 ## 💭 Reflexão
 O processo de criação revelou como a inteligência artificial pode simular estilos artísticos icônicos. A escolha cuidadosa da descrição influenciou diretamente o resultado, mostrando a importância de um prompt bem elaborado. Além disso, o cruzamento entre arte e tecnologia evidencia novas possibilidades criativas, permitindo explorar diferentes formas de representação visual. Esse experimento destaca como a IA pode ser uma ferramenta poderosa na reinterpretação artística, preservando a essência de mestres como Van Gogh, mas aplicada a novos contextos, como uma cidade contemporânea.
